@@ -1,4 +1,4 @@
-# Imersao Python :snake:
+# Imersao Python: Do Excel à Análise de Dados :snake:
 
 Criação gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab!
 
