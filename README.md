@@ -13,6 +13,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 -	Pegar via Chat GPT as faixas de idade;
 -	Pedir para o GPT gerar a fórmula IF para as faixas de idade.
 
+:open_file_folder: Tabela Ações/Tabela de ações.
 
 ## :orange_book: Aula 02
 -	Gerar de tabelas e cálculos de estatísticas;
@@ -25,6 +26,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 -	Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
 -	Explore os tipos de gráficos com os dados já feitos.
 
+:open_file_folder: Imersão_Python.ipynb
 
 ## :blue_book: Aula 03
 -	Manipular dados com Pandas;
@@ -37,6 +39,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 -	Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
 -	Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
 
+:open_file_folder: Imersão_Python - Aula 03.ipynb
 
 ## :green_book: Aula 04
 -	Criar gráficos de velas;
@@ -45,3 +48,5 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 :pencil2: Desafio:
 -	Pesquisar o que é uma tupla em Python;
 -	Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
+
+:open_file_folder: Imersão_Python - Aula 04.ipynb
