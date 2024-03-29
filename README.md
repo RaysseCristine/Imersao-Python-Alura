@@ -2,7 +2,7 @@
 
 Criação gráficos e tabelas no Google Sheets e manipulação de dados com Python Pandas pelo Google Colab!
 
-## :closed_book: Aula 01 
+## :closed_book: Aula 01 – Análise Exploratória com Google Sheets
 -	Analisar as bases de variações na B3;
 -	Fazer análises exploratórias pelo Google Sheets com fórmulas
 -	Usar o Chat GPT;
@@ -15,7 +15,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 
 :open_file_folder: Tabela Ações/Tabela de ações.
 
-## :orange_book: Aula 02
+## :orange_book: Aula 02 – Gráficos e Análises com Google Colab e Python Pandas
 -	Gerar de tabelas e cálculos de estatísticas;
 -	Criar gráficos no Google Sheets;
 -	Conhecer o Google Colab;
@@ -28,7 +28,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 
 :open_file_folder: Imersão_Python.ipynb
 
-## :blue_book: Aula 03
+## :blue_book: Aula 03 – Manipulação de Dados e Criação de Gráficos com bibliotecas Python
 -	Manipular dados com Pandas;
 -	Transformar a planilha de ações com funções do Pandas;
 -	Construir gráficos com a biblioteca Plotly Express;
@@ -41,7 +41,7 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 
 :open_file_folder: Imersão_Python - Aula 03.ipynb
 
-## :green_book: Aula 04
+## :green_book: Aula 04 – Análises Avançadas de Ações e Gráficos de Velas
 -	Criar gráficos de velas;
 -	Aprender a fazer gráficos interativos com Plotly.
 
@@ -50,3 +50,10 @@ Criação gráficos e tabelas no Google Sheets e manipulação de dados com Pyth
 -	Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
 
 :open_file_folder: Imersão_Python - Aula 04.ipynb
+
+## :ledger: Aula 05 – Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+-	Ter uma introdução ao Machine Learning;
+-	Revisar ferramentas aprendidas durante a Imersão;
+-	Conhecer mais sobre as carreiras no mercado de dados.
+
+:open_file_folder: Imersão_Python - Aula 05.ipynb
